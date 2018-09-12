@@ -1,10 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 3
 =======
+=======
+>>>>>>> parent of 8cf2396... 1
 dflkdsfjdksjflkdsfjadsk
 dsfasd
 fdfasf
 sfsdf
 sdfsdf
+<<<<<<< HEAD
+sd
+>>>>>>> parent of 8cf2396... 1
+=======
 sd
 >>>>>>> parent of 8cf2396... 1
