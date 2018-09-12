@@ -1,5 +1,0 @@
-select * from sjsdjfa
-fdfjds
-dsfösdjf
-fasdfjdks
-
